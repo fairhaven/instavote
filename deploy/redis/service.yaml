@@ -6,7 +6,7 @@ metadata:
   name: redis
   namespace: instavote
   resourceVersion: "2193"
-  uid: 870ae7de-dcd8-4999-b5bb-f03384fec6b2
+  #uid: 870ae7de-dcd8-4999-b5bb-f03384fec6b2
 spec:
   clusterIP: 10.96.206.21
   clusterIPs:
